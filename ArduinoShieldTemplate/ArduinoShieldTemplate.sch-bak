@@ -50,7 +50,7 @@ Text Label 10550 1900 0    60   ~ 0
 Text Label 10550 1800 0    60   ~ 0
 9(**)
 Text Label 10550 1700 0    60   ~ 0
-10(**/SS)
+10(**SS)
 Text Label 10550 1600 0    60   ~ 0
 11(MOSI)
 Text Label 10550 1500 0    60   ~ 0
@@ -742,7 +742,7 @@ Wire Wire Line
 Wire Wire Line
 	4600 6400 4350 6400
 Text Label 4350 5600 0    50   ~ 0
-11(MOSI)
+10(**SS)
 Text Label 4350 6400 0    50   ~ 0
 2
 Wire Notes Line
